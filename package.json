@@ -23,7 +23,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "webpack": "^4.26.1",
-    "video.js": "^7.4.1"
+    "video.js": "7.18.1"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
